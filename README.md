@@ -1,9 +1,0 @@
-"# GitGud" 
-# GitGud
-# GitGud
-# GitGud
-# GitGud
-# GitGud
-# GitGud
-# GitGud
-# SChool
