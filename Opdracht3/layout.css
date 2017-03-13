@@ -1,0 +1,70 @@
+﻿.container {
+  width: 100%;
+  max-width: 66rem;
+  margin: 0 auto;
+  background-color: #EFF8FB;
+  font-family: Verdana;
+}
+ h1 {
+	position:absolute;
+	font-size: 60px;
+	margin: 0;
+	margin-top: 10px;
+	margin-left: 20%;
+	color: white;
+	text-shadow: 0 0 1vw hsla(239,94%,29%,1.00);
+	opacity: 0,9;
+	filter:blur(2px);
+}
+iframe{
+	height: 400px;
+	width: 320px;
+}
+
+img {
+  width:100%;
+  height:auto;  
+}
+header {
+  position:relative;
+}
+main {
+    float: left;
+    width: 60%;
+    padding-right: 1rem;
+  }
+    
+ul {
+    margin: 20;
+	height: 50px;
+    background-color: #00ccff;
+}
+
+ul li {
+    display:inline;
+	margin:0;
+	background-color:#44699C;
+	padding:15px;
+}
+
+ul li a {
+    display: inline;
+    color: white;
+    text-align: center;
+	font:Verdana;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: #5F94DC;
+}/* Maak hier je opmaak van je menu */
+
+ .zijkolom {
+    
+    float: left;
+    width: 33%;
+  }
+
+  footer {
+    clear: left;
+  } 
