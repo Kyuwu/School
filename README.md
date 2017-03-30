@@ -8,4 +8,4 @@ Opdracht 4 ingeleverd
 
 Opdracht 5 ingeleverd
 
-Opdracht 6 ingeleverd, na veel geknoei
+Opdracht 6 ingeleverd, de nul en en Back werken niet.
