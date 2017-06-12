@@ -11,3 +11,5 @@ Opdracht 5 ingeleverd
 Opdracht 6 ingeleverd, de nul en en Back werken niet.
 
 Opdracht 7 ingeleverd, rekentoets.vsdx is de UML.
+
+Opdracht 8 ingeleverd.
